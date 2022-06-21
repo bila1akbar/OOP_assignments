@@ -14,6 +14,7 @@ struct Flavor
 
 struct Customer
 {
+    //nothing too ordinary
     char name[127];
     int custID;
     float purchase = 0;
