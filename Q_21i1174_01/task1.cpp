@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//this is just a test
 struct Address
 {
     string *City;
